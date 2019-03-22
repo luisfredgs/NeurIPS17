@@ -181,7 +181,7 @@ ID: 95 Gene: TGFBR1 Variation: S387Y
     8      0.0009614994703982653     0.0
     9      0.0009308415200664855     0.0
 ```
-
+The list of <gene, variation> can be found in the file 'data/stage1_variants'.
 
 Parameters
 ==========
